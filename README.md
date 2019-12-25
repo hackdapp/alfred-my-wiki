@@ -1,4 +1,4 @@
-# Alfred My Wiki Shortcut [![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme) [![Thanks](http://bit.ly/saythankss)]
+# Alfred My Wiki Shortcut [![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme) 
 
 > [Alfred](https://www.alfredapp.com/) workflow to search through my notes and bookmarks
 
